@@ -10,6 +10,7 @@ Using	namespace	std;\
 Int main()\
 \{\
 	cout<<\'93Hello World\'94;\
+	cout<<"Emty space";
 	return 0;\
 \}\
 }
