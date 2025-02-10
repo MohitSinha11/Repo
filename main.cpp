@@ -11,6 +11,7 @@ Int main()\
 \{\
 	cout<<\'93Hello World\'94;\
 	cout<<"Emty space";
+	thala 304;
 	return 0;\
 \}\
 }
