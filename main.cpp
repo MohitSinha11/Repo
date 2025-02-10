@@ -7,6 +7,12 @@
 
 \f0\fs24 \cf0 #include <iostream>\
 Using	namespace	std;\
+
+void thala()
+{
+	cout<<"007";
+}
+
 Int main()\
 \{\
 	cout<<\'93Hello World\'94;\
