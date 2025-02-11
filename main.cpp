@@ -13,6 +13,11 @@ void thala()
 	cout<<"007";
 }
 
+void lala()
+{
+	cout<<"HEHE";
+}
+
 Int main()\
 \{\
 	cout<<\'93Hello World\'94;\
