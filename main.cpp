@@ -18,6 +18,11 @@ void lala()
 	cout<<"HEHE";
 }
 
+void desktop()
+{
+	thakdiuadnascascans cascxas;caca
+}
+
 Int main()\
 \{\
 	cout<<\'93Hello World\'94;\
